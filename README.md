@@ -1,4 +1,4 @@
-# UniDecoder (Originally Universal Decoder/Encoder Tool)
+# UniDecoder (Previously Universal Decoder/Encoder Tool)
 A Python made decoder and encoder capable of writting in most formal languages!
 
 ![License](https://img.shields.io/github/license/SSMG4/Universal-Decoder-Encoder-Tool)
@@ -15,7 +15,7 @@ A Python made decoder and encoder capable of writting in most formal languages!
 - Zlib
 - ROT13
 - Base32
-- HTML Entities (W.I.P)
+- HTML Entities
 
 ## Supported Decodes & Encodes
 - Base64 -> Zlib -> Text
@@ -47,6 +47,7 @@ Requirements and dependencies to run the tool:
 - Pyperclip libraries (clipboard)
 - Codecs libraries
 - Pyfiglet libraries
+
 (Libraries can be installed with the command ```pip install your_lib_name```)
 
 ## How To Run The Tool
