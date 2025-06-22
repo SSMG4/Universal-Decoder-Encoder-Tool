@@ -1,5 +1,5 @@
-# Universal Decoder/Encoder Tool
-A Python made decoder and encoder capable of writting in most formal language!
+# UniDecoder (Originally Universal Decoder/Encoder Tool)
+A Python made decoder and encoder capable of writting in most formal languages!
 
 ![License](https://img.shields.io/github/license/SSMG4/Universal-Decoder-Encoder-Tool)
 ![Stars](https://img.shields.io/github/stars/SSMG4/Universal-Decoder-Encoder-Tool?style=social)
