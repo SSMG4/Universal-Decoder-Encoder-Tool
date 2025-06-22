@@ -9,10 +9,13 @@ A Python made decoder and encoder capable of writting in most formal language!
 
 ## Supported Formal Languages
 - Binary
-- Morse (partially)
+- Morse
 - Hexadecimal
 - Base64
 - Zlib
+- ROT13
+- Base32
+- HTML Entities
 
 ## Supported Decodes & Encodes
 - Base64 -> Zlib -> Text
@@ -28,6 +31,12 @@ A Python made decoder and encoder capable of writting in most formal language!
 - Hex -> Base64 -> Text
 - Text -> Morse
 - Morse -> Text
+- Text -> ROT13
+- ROT13 -> Text
+- Text -> Base32
+- Base32 -> Text
+- Text -> HTML Entities
+- HTML Entities -> Text
 
 ## Requirements
 Requirements and dependencies to run the tool:
@@ -36,12 +45,15 @@ Requirements and dependencies to run the tool:
 - Zlib libraries
 - Binascii libraries
 - Pyperclip libraries (clipboard)
+- Codecs libraries
+- Pyfiglet libraries
 (Libraries can be installed with the command ```pip install your_lib_name```)
 
 ## How To Run The Tool
 There's 2 ways to run the tool:
+First off, download the source code, decompress it and then either:
 - Install the libs manually then run the tool (main.py)
-- Run setup.bat (recommended) which will install the libs automatically for you (if you dont have them) and run the tool
+- Or run setup.bat (recommended) which will install the libs automatically for you (if you dont have them) and run the tool
 
 ## How To Use The Tool
 The tool can be a bit tricky to use for the first time but you'll get used to it:
