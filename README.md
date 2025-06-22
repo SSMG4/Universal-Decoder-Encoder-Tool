@@ -15,19 +15,19 @@ A Python made decoder and encoder capable of writting in most formal language!
 - Zlib
 
 ## Supported Decodes & Encodes
-base64 -> zlib -> text
-base64 -> text
-zlib -> text
-zlib -> base64 -> text
-binary -> zlib -> text
-binary -> text
-binary -> base64 -> text
-hex -> text
-hex -> zlib -> text
-hex -> base64 -> zlib -> text
-hex -> base64 -> text
-text -> morse
-morse -> text
+- Base64 -> Zlib -> Text
+- Base64 -> Text
+- Zlib -> Text
+- Zlib -> Base64 -> Text
+- Binary -> Zlib -> Text
+- Binary -> Text
+- Binary -> Base64 -> Text
+- Hex -> Text
+- Hex -> Zlib -> Text
+- Hex -> Base64 -> Zlib -> Text
+- Hex -> Base64 -> Text
+- Text -> Morse
+- Morse -> Text
 
 ## Requirements
 Requirements and dependencies to run the tool:
@@ -36,7 +36,7 @@ Requirements and dependencies to run the tool:
 - Zlib libraries
 - Binascii libraries
 - Pyperclip libraries (clipboard)
-(Libraries can be installed with the command ```bash pip install your_lib_name ```)
+(Libraries can be installed with the command ```pip install your_lib_name```)
 
 ## How To Run The Tool
 There's 2 ways to run the tool:
