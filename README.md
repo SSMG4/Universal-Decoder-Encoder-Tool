@@ -48,7 +48,7 @@ The tool can be a bit tricky to use for the first time but you'll get used to it
 - Select an option (1-13 + The Exit option), press Enter, insert your encoded or decoded text, press Enter 2 times, obtain the output!
 - Hexadecimal doesnt support spaces, so paste the encoded hexadecimal text WITHOUT spaces
 
-# Is This Tool Safe?
+## Is This Tool Safe?
 Yes! This tool is meant for decoding and encoding, it doesnt not contain any malware form anywhere.
 If you are skeptic, which is understandable, VirusTotal is always a good option!
 
