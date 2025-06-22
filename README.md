@@ -15,7 +15,7 @@ A Python made decoder and encoder capable of writting in most formal language!
 - Zlib
 - ROT13
 - Base32
-- HTML Entities
+- HTML Entities (W.I.P)
 
 ## Supported Decodes & Encodes
 - Base64 -> Zlib -> Text
